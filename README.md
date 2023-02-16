@@ -1,2 +1,2 @@
 # Lab
-2-week lap project
+2-week lab project
