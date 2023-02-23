@@ -14,4 +14,4 @@ Contribute:
 
 Reason for License: GNU General Public License provides a wide range of freedom for anyone to use our code. Feel free to use, modify, and commercialize it as you see fit. We are not liable for any damages caused by misuse of the code.
 
-Reason for Code of Conduct: 
+Reason for Code of Conduct: Contributor Covenant open source code of conduct is used by numerours tech giants and communities such as Google, Microsoft, Meta, and Linux. As stated in the pledge, this code of conduct welcomes contributors regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
